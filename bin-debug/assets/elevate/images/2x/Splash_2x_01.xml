@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:883301fe99b4a472469c901e5b76a4c0$ -->
+<TextureAtlas imagePath="Splash_2x_01.png">
+    <SubTexture name="balloonGlow" x="2" y="911" width="666" height="822" frameX="-69" frameY="-22" frameWidth="768" frameHeight="848"/>
+    <SubTexture name="cloudsSplash" x="670" y="911" width="768" height="649" frameX="0" frameY="-26" frameWidth="768" frameHeight="675"/>
+    <SubTexture name="playButton_down" x="2" y="1846" width="186" height="109" frameX="-5" frameY="-1" frameWidth="192" frameHeight="117"/>
+    <SubTexture name="playButton_up" x="2" y="1735" width="186" height="109" frameX="-5" frameY="-1" frameWidth="192" frameHeight="117"/>
+    <SubTexture name="skySplash" x="2" y="2" width="768" height="907"/>
+    <SubTexture name="sunSplash" x="670" y="1562" width="470" height="397" frameX="-30" frameY="-19" frameWidth="534" frameHeight="437"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1c85a44175298e4213dad789f2600daf$ -->
+<TextureAtlas imagePath="4x_2.png">
+    <SubTexture name="airplane" x="2" y="590" width="506" height="306" frameX="-62" frameY="-58" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="boat" x="920" y="286" width="620" height="290" frameX="-19" frameY="-66" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="crab" x="1542" y="311" width="496" height="396" frameX="-83" frameY="-4" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="crustacean" x="2" y="308" width="580" height="280" frameX="-44" frameY="-65" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="dove" x="2" y="898" width="468" height="396" frameX="-120" frameY="-1" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="fish" x="683" y="1451" width="306" height="412" frameX="-204" frameY="-9" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="lightingBolt" x="584" y="308" width="315" height="461" frameX="0" frameY="-9" frameWidth="331" frameHeight="471"/>
+    <SubTexture name="lobster" x="920" y="2" width="634" height="282" frameX="-15" frameY="-73" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="rainDrop" x="1954" y="709" width="92" height="120" frameX="-4" frameY="-2" frameWidth="100" frameHeight="128"/>
+    <SubTexture name="ray" x="1351" y="1015" width="420" height="400" frameX="-103" frameY="-30" frameWidth="672" frameHeight="430"/>
+    <SubTexture name="rewardBanner" x="2" y="2" width="916" height="304" frameX="0" frameY="-1" frameWidth="948" frameHeight="320"/>
+    <SubTexture name="rewardTabBoost" x="2" y="1296" width="391" height="228" frameX="-18" frameY="-1" frameWidth="409" frameHeight="236"/>
+    <SubTexture name="rewardTabHealth" x="472" y="1221" width="391" height="228" frameX="-18" frameY="-1" frameWidth="409" frameHeight="236"/>
+    <SubTexture name="rewardTabWeather" x="896" y="1196" width="391" height="228" frameX="-18" frameY="-1" frameWidth="409" frameHeight="236"/>
+    <SubTexture name="snow" x="510" y="590" width="64" height="64"/>
+    <SubTexture name="snowFlake" x="1386" y="578" width="114" height="114" frameX="-6" frameY="-9" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="star" x="1355" y="1417" width="348" height="330" frameX="-7" frameY="-16" frameWidth="376" frameHeight="376"/>
+    <SubTexture name="star1" x="1493" y="709" width="459" height="304" frameX="-2" frameY="0" frameWidth="461" frameHeight="312"/>
+    <SubTexture name="star2" x="1556" y="2" width="484" height="307" frameX="-14" frameY="-12" frameWidth="502" frameHeight="319"/>
+    <SubTexture name="star3" x="510" y="771" width="384" height="448" frameX="-9" frameY="-14" frameWidth="398" frameHeight="462"/>
+    <SubTexture name="star4" x="2" y="1526" width="294" height="460" frameX="-2" frameY="-10" frameWidth="304" frameHeight="470"/>
+    <SubTexture name="star5" x="298" y="1526" width="383" height="450" frameX="-4" frameY="0" frameWidth="395" frameHeight="450"/>
+    <SubTexture name="star6" x="901" y="578" width="483" height="310" frameX="-7" frameY="-5" frameWidth="493" frameHeight="324"/>
+    <SubTexture name="star7" x="896" y="890" width="453" height="304" frameX="-12" frameY="-13" frameWidth="471" frameHeight="318"/>
+    <SubTexture name="tabIconBoost" x="1386" y="694" width="105" height="102" frameX="-11" frameY="-2" frameWidth="125" frameHeight="106"/>
+    <SubTexture name="turtle" x="991" y="1426" width="362" height="404" frameX="-150" frameY="-11" frameWidth="672" frameHeight="430"/>
+</TextureAtlas>

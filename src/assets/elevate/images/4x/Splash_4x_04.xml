@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:53c4c5f855438be845bcae3bf1353245$ -->
+<TextureAtlas imagePath="Splash_4x_04.png">
+    <SubTexture name="cloudsSplash" x="2" y="2" width="1536" height="1349"/>
+</TextureAtlas>

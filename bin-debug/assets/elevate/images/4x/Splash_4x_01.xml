@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:619300d365c503abca20fb38b5e2a41d$ -->
+<TextureAtlas imagePath="Splash_4x_01.png">
+    <SubTexture name="playButton_down" x="377" y="798" width="373" height="215" frameX="-9" frameY="-4" frameWidth="383" frameHeight="233"/>
+    <SubTexture name="playButton_up" x="2" y="798" width="373" height="215" frameX="-9" frameY="-4" frameWidth="383" frameHeight="233"/>
+    <SubTexture name="sunSplash" x="2" y="2" width="942" height="794" frameX="-59" frameY="-39" frameWidth="1068" frameHeight="874"/>
+</TextureAtlas>

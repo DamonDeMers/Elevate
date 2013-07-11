@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:165e9ccedd22cfc18a49034b3d74b8b4$ -->
+<TextureAtlas imagePath="Results_4x_01.png">
+    <SubTexture name="activeSelector" x="2" y="1802" width="75" height="75"/>
+    <SubTexture name="activeSelectorCircle" x="2" y="1725" width="75" height="75"/>
+    <SubTexture name="bgPanel" x="2" y="2" width="1197" height="1644"/>
+    <SubTexture name="inactiveSelector" x="2" y="1648" width="75" height="75"/>
+</TextureAtlas>

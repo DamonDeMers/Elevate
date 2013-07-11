@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:3de1f1f015ac85e9760989c8c0f7e028$ -->
+<TextureAtlas imagePath="Splash_4x_03.png">
+    <SubTexture name="balloonGlow" x="2" y="2" width="1536" height="1695"/>
+</TextureAtlas>

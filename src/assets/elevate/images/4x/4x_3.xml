@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:929d3c436ef32c0740083d73706abba9$ -->
+<TextureAtlas imagePath="4x_3.png">
+    <SubTexture name="halfMoon" x="806" y="2" width="586" height="618" frameX="-8" frameY="-13" frameWidth="640" frameHeight="640"/>
+    <SubTexture name="hand" x="2" y="774" width="420" height="718" frameX="-30" frameY="-40" frameWidth="496" frameHeight="790"/>
+    <SubTexture name="mainStar" x="2" y="2" width="802" height="770" frameX="-8" frameY="-29" frameWidth="830" frameHeight="830"/>
+    <SubTexture name="moon" x="424" y="774" width="684" height="684" frameX="-2" frameY="-6" frameWidth="696" frameHeight="696"/>
+    <SubTexture name="redX" x="2" y="1494" width="486" height="458" frameX="-25" frameY="-39" frameWidth="540" frameHeight="540"/>
+</TextureAtlas>
